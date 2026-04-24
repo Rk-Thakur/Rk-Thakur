@@ -140,6 +140,22 @@ I enjoy building software that is clean, scalable, maintainable, and useful in r
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,apple,python,fastapi,java,swift,c,js,ts,postgres,docker,aws,azure,githubactions,git,github,vscode,postman,figma,linux" />
 </p> -->
+## 🧠 Technical Skills
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,python,java,swift,c,js,ts,sql,bash" />
+</p>
+
+### Mobile & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,firebase,figma" />
+</p>
+
+### Backend, Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,azure,githubactions,git,github,linux,postman,vscode" />
+</p>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
