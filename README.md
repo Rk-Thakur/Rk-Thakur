@@ -137,13 +137,11 @@ I enjoy building software that is clean, scalable, maintainable, and useful in r
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,apple,python,fastapi,java,swift,c,js,ts,postgres,docker,aws,azure,githubactions,git,github,vscode,postman,figma,linux" />
-</p>
+</p> -->
 
-<p align="left">
+<p align="right">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
