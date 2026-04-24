@@ -30,7 +30,7 @@ I enjoy building software that is clean, scalable, maintainable, and useful in r
 
 ---
 
----
+
 
 ## 🚀 What I Bring
 
