@@ -30,6 +30,97 @@ I enjoy building software that is clean, scalable, maintainable, and useful in r
 
 ---
 
+---
+
+## 🚀 What I Bring
+
+- Strong mobile engineering experience with Flutter and native mobile development
+- Ability to design scalable app architecture using clean and modular patterns
+- Experience building backend APIs and Dockerized services
+- Hands-on knowledge of Firebase, cloud services, and CI/CD automation
+- Practical AI/ML project experience using Python and NLP tools
+- Experience mentoring developers and improving engineering workflows
+- Passion for building reusable tools, open-source packages, and production-ready applications
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rk-Thakur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ranjan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rk-Thakur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rk-Thakur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rk-Thakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rk-Thakur&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🧩 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rk-Thakur&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rk-Thakur&theme=tokyonight" alt="Repos Per Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rk-Thakur&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rk-Thakur&theme=tokyonight" alt="Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rk-Thakur&theme=tokyonight&utcOffset=-5" alt="Productive Time" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rk-Thakur&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to discussing **Flutter development, mobile engineering, backend systems, AI projects, open-source tools, and software engineering opportunities**.
+
+<p align="center">
+  <a href="mailto:tranjan638@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/thakurranjan/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Rk-Thakur">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Building software that is scalable, useful, and meaningful.”</b>
+</p>
+
 ## 📫 Reach Me
 
 <p align="center">
