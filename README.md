@@ -121,20 +121,6 @@ I am always open to discussing **Flutter development, mobile engineering, backen
   <b>“Building software that is scalable, useful, and meaningful.”</b>
 </p>
 
-## 📫 Reach Me
-
-<p align="center">
-  <a href="mailto:tranjan638@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tranjan638%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/thakurranjan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Thakur-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Rk-Thakur">
-    <img src="https://img.shields.io/badge/GitHub-Rk--Thakur-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 ---
 
 ## 🔭 Currently Working On
