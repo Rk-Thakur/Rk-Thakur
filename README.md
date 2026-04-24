@@ -117,11 +117,6 @@ I am always open to discussing **Flutter development, mobile engineering, backen
 
 ---
 
-<p align="center">
-  <b>“Building software that is scalable, useful, and meaningful.”</b>
-</p>
-
----
 
 ## 🔭 Currently Working On
 
