@@ -84,12 +84,15 @@ I enjoy building software that is clean, scalable, maintainable, and useful in r
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/thakurranjan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ranjan LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="mailto:tranjan638@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tranjan638%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:tranjan638@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/thakurranjan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Thakur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rk-Thakur">
+    <img src="https://img.shields.io/badge/GitHub-Rk--Thakur-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -149,6 +152,11 @@ I enjoy building software that is clean, scalable, maintainable, and useful in r
 
 ## 🛠️ Languages and Tools
 
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,apple,python,fastapi,java,swift,c,js,ts,postgres,docker,aws,azure,githubactions,git,github,vscode,postman,figma,linux" />
+</p>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
