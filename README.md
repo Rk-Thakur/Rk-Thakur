@@ -10,14 +10,8 @@ I build scalable mobile applications, backend systems, developer tools, and AI-p
 
 <img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rk-Thakur&label=Profile%20views&color=0e75b6&style=flat" alt="Rk-Thakur" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rk-Thakur&theme=tokyonight&no-frame=true&row=1&column=6" alt="Rk-Thakur" />
-  </a>
 </p>
 
 ---
@@ -33,6 +27,22 @@ I have worked on production-level mobile applications, fintech systems, real-tim
 Currently, I am pursuing my **M.S. in Computer Science at Troy University**, with a strong interest in **AI, mobile engineering, backend systems, and cloud deployment**.
 
 I enjoy building software that is clean, scalable, maintainable, and useful in real-world environments.
+
+---
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:tranjan638@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tranjan638%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/thakurranjan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Thakur-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Rk-Thakur">
+    <img src="https://img.shields.io/badge/GitHub-Rk--Thakur-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
@@ -66,138 +76,27 @@ I enjoy building software that is clean, scalable, maintainable, and useful in r
 
 ---
 
-## 📫 Reach Me
-
-<p align="left">
-  <a href="mailto:tranjan638@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tranjan638%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/thakurranjan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Thakur-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Rk-Thakur">
-    <img src="https://img.shields.io/badge/GitHub-Rk--Thakur-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-
 ## 🧠 Technical Skills
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,python,java,swift,c,js,ts,sql,bash" />
-</p>
-
-**Dart, Python, Java, Swift, C, JavaScript, TypeScript, SQL, Bash**
-
----
 
 ### Mobile Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,firebase" />
-</p>
-
 **Flutter, Dart, Native Android, Java, Native iOS, Swift, Firebase, BLoC, Riverpod, Provider, GetIt, Dio, Hive, SharedPreferences, Secure Storage, Push Notifications, Deep Linking, App Store Deployment, Play Store Deployment**
-
----
 
 ### Backend & APIs
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,graphql,postman" />
-</p>
-
 **FastAPI, REST APIs, GraphQL, WebSockets, SignalR, DartFrog, Serverpod, PostgreSQL, JWT Authentication, Swagger/OpenAPI**
-
----
 
 ### Cloud, DevOps & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,github,linux,vscode" />
-</p>
-
-**AWS EC2, AWS S3, AWS IAM, Azure DevOps, Docker, Docker Compose, GitHub Actions, Fastlane, Firebase App Distribution, CI/CD Pipelines, SonarQube**
-
----
+**AWS EC2, AWS S3, AWS IAM, Azure DevOps, Docker, Docker Compose, GitHub Actions, Fastlane, Firebase App Distribution, CI/CD Pipelines, SonarQube, Git, GitHub, Postman, VS Code, Android Studio, Xcode**
 
 ### AI / Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+**Python, Pandas, NumPy, Scikit-learn, XGBoost, TF-IDF, BERT, NLP, Data Cleaning, Feature Engineering, Model Evaluation**
 
-**Pandas, NumPy, Scikit-learn, XGBoost, TF-IDF, BERT, NLP, Data Cleaning, Feature Engineering, Model Evaluation**
+### Software Engineering
 
----
-
-## 🛠️ Languages and Tools
-
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,apple,python,fastapi,java,swift,c,js,ts,postgres,docker,aws,azure,githubactions,git,github,vscode,postman,figma,linux" />
-</p> -->
-## 🧠 Technical Skills
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,java,swift,c,js,ts,sql,bash" />
-</p>
-
-### Mobile & Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,firebase,figma" />
-</p>
-
-### Backend, Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,azure,githubactions,git,github,linux,postman,vscode" />
-</p>
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+**Clean Architecture, MVVM, Modular Architecture, Monorepo Architecture, SOLID Principles, Repository Pattern, Dependency Injection, API Integration, Real-Time Systems, Testing, Debugging, Code Quality**
 
 ---
 
